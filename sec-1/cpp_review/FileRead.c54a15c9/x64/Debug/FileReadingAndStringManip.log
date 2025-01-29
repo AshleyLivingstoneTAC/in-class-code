@@ -1,0 +1,10 @@
+﻿  allocators.cpp
+C:\Users\ashley.mcdonald\Documents\GitHub\in-class-code\sec-1\cpp_review\allocators.cpp(58,36): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\ashley.mcdonald\Documents\GitHub\in-class-code\sec-1\cpp_review\allocators.cpp(58,8): warning C5043: 'operator new': exception specification does not match previous declaration
+      C:\Users\ashley.mcdonald\Documents\GitHub\in-class-code\sec-1\cpp_review\predefined C++ types (compiler internal)(43,23):
+      see declaration of 'operator new'
+  
+  files_and_strings.cpp
+  main.cpp
+  Generating Code...
+  FileReadingAndStringManip.vcxproj -> C:\Users\ashley.mcdonald\Documents\GitHub\in-class-code\sec-1\cpp_review\x64\Debug\FileReadingAndStringManip.exe
